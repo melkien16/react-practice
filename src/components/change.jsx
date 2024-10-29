@@ -2,6 +2,7 @@ const person = [
   { name: "abera", age: 87 },
   { name: "Tewabech", age: 65 },
   { name: "Aster", age: 90 },
+  { name: "Mark", age: 29 },
 ];
 
 export const Change = () => {
